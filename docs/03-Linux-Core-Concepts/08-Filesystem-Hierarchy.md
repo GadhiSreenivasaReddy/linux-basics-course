@@ -17,6 +17,10 @@ In this section, lets take a look at the **`filesystem hierarchy`**
   - **`/var`**   : It contains variable data like mails, log files
   
       ![filesystem](../../images/filesystem.PNG)
+      ![filesystem](../../images/FileSystemArchitecture.png)
+
+      
+      
       
  To print all the mounted filesystems, run **`df`** (disk filesystem) command
  ```
