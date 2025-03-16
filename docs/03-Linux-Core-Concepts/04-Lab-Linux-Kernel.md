@@ -1,6 +1,6 @@
 # Lab - Linux Kernel
 
-- Access Hands-On Labs here [Hands-On Labs](https://kodekloud.com/courses/873064/lectures/17074365)
+- Access Hands-On Labs here [Hands-On Labs](https://kodekloud.com/topic/lab-linux-kernel-lsmod-insmod-modprobe-uname/)
 
 To check the exact kernel version that is running in this system. 
 ```
@@ -9,7 +9,7 @@ $ uname -r
 
 what is the kernel version in 4.15.0-88-generic?
 ```
-Look for the first digit. In this case, it is 15
+Look for the first digit. In this case, it is 4
 ```
 
 What is the major version number of the kernel 4.15.0-88-generic
